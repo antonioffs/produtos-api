@@ -12,8 +12,8 @@ import { LivrosService } from './livros.service';
       dialect: 'mysql',
       host: 'localhost',
       port: 3306,
-      username: 'root',
-      password: '123',
+      username: 'felipe',
+      password: 'Felipe123@',
       database: 'livraria',
       autoLoadModels: true,
       synchronize: true
